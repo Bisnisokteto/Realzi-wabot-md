@@ -2632,16 +2632,16 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
     + 'N:;ZyyXtrime;;;'
     + 'FN:ZyyXtrime\n'
     + 'ORG:ZyyXtrime;\n'
-    + 'item1.TEL;type=CELL;type=VOICE;waid=6289503657396:+62 895-0365-7396\n' 
-    + 'item1.X-ABLabel:Creator Realzi-bot\n'
-    + 'item2.EMAIL;type=INTERNET: ytfauzigaming@gmail.com\n'
+    + 'item1.TEL;type=CELL;type=VOICE;waid=6282288674337:+62 822-8867-4337\n' 
+    + 'item1.X-ABLabel:Creator Salsaa-bot\n'
+    + 'item2.EMAIL;type=INTERNET: SalsaaStore@gmail.com\n'
     + 'item2.X-ABLabel:Email\n'
-    + 'item3.URL:https://instagram.com/spnx.fauzi\n'
+    + 'item3.URL:https://instagram.com/faxxz\n'
     + 'item3.X-ABLabel:Instagram\n'
     + 'item4.ADR:;;Indonesia;;;;\n'
     + 'item4.X-ABLabel:Region\n'
     + 'END:VCARD'
-zyy.sendMessage(m.chat, { contacts: { displayName: 'ZyyXtrime', contacts: [{ vcard }] } }, { quoted: m })
+zyy.sendMessage(m.chat, { contacts: { displayName: 'Salsaa Kawaii', contacts: [{ vcard }] } }, { quoted: m })
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
