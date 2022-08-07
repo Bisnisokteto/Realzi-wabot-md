@@ -2649,7 +2649,7 @@ zyy.sendMessage(m.chat, { contacts: { displayName: 'ZyyXtrime', contacts: [{ vca
                 anu = `_*Hi Kak ${pushname} ${ucapanWaktu} 👋.*_
 _*Saya Whatsapp Robot Yang Bisa Membantu Anda/User Kapan Saja!!*_
 
-_*Berikut Adalah Daftar Fitur Yang Terdapat Pada Realzi-bot*_
+_*Berikut Adalah Daftar Fitur Yang Terdapat Pada Salsaa-bot*_
 
 *[   INFORMATION  SALSA  ]*
 
