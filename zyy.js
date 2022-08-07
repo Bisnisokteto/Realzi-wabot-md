@@ -2629,9 +2629,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'owner': case 'creator': {
                 let vcard = 'BEGIN:VCARD\n'
     + 'VERSION:3.0\n' 
-    + 'N:;ZyyXtrime;;;'
-    + 'FN:ZyyXtrime\n'
-    + 'ORG:ZyyXtrime;\n'
+    + 'N:;Salsaa kawaii;;;'
+    + 'FN:Salsaa kawaii\n'
+    + 'ORG:Salsaa Kawaii;\n'
     + 'item1.TEL;type=CELL;type=VOICE;waid=6282288674337:+62 822-8867-4337\n' 
     + 'item1.X-ABLabel:Creator Salsaa-bot\n'
     + 'item2.EMAIL;type=INTERNET: SalsaaStore@gmail.com\n'
