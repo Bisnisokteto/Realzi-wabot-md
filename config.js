@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.APIs = {
-	anto: 'https://hardianto.xyz',
-    zenz: 'https://zenzapis.xyz',
+	anto: 'https://zenzapi.xyz',
+    zenz: 'https://zenzapi.xyz',
 }
 
 
 // Apikey Website Api
 global.APIKeys = {
-        'https://hardianto.xyz': 'hardianto',
-        'https://api.zeeoneofc.xyz': '7d1e10e532', //Untuk Mendapatkan Apikey Silahkan Register Di : https://zenzapi.xyz
+        'https://zenzapi.xyz': '28d2165ac76e',
+        'https://zenzapi.xyz': '28d2165ac76e', //Untuk Mendapatkan Apikey Silahkan Register Di : https://zenzapi.xyz
         
 }
 
