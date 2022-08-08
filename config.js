@@ -21,7 +21,7 @@ global.modelMenu = 'locButton'
 global.owner = ['6282288674337']
 global.premium = ['6288223674569']
 global.meki = '628228874337'
-global.ownerNumber = '628228874337'
+global.ownerNumber = '6288223674569'
 global.packname = 'Salsa'
 global.author = 'Multi - device'
 global.sessionName = 'Fauzi'
@@ -35,7 +35,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Sabar, sasaa lagi memproses nya...',
     done: 'Done',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
