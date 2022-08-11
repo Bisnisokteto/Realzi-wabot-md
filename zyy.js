@@ -3005,7 +3005,7 @@ const _0x3f1b63=_0x5e00;(function(_0x4b42ba,_0x4be51f){const _0x17fbf3=_0x5e00,_
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
-	console.log(chalk.redBright(`Update ${__filename}`)
+	console.log(chalk.redBright(`Update ${__filename}`))
 	delete require.cache[file]
 	require(file)
 })
